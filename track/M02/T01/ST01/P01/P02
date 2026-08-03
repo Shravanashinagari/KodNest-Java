@@ -1,0 +1,20 @@
+public class Main {
+    public static void main(String[] args) {
+
+        // Write your code here
+        int CompletedTopics = 17;
+        int TotalTopics = 20;
+        int DailyLearningHours = 3;
+        int learningDays = 5;
+
+        int RemainingTopics = TotalTopics - CompletedTopics;
+        int WeeklyLearningHours = DailyLearningHours * learningDays;
+
+        double progressPercentage = (double) CompletedTopics * 100 / TotalTopics;
+
+        System.out.println("Completed Topics: " + CompletedTopics);
+        System.out.println("Remaining Topics: " + RemainingTopics);
+        System.out.println("Weekly Learning Hours: " + WeeklyLearningHours);
+        System.out.println("Progress Percentage: " + progressPercentage);
+    }
+}
