@@ -21,7 +21,7 @@ class Student {
 public class StudentApplication {
 
     public static void main(String[] args) {
-        Student s1 = new Student("Shravana", 22, 5.2);
+        Student s1 = new Student("Shravana", 22, 5.2);//constructor
 
         Student s2 = new Student("Sonu", 21, 5.3);
 
