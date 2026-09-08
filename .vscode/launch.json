@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringPgm1",
+            "request": "launch",
+            "mainClass": "track.Strings.StringPgm1",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
             "name": "pgm4",
             "request": "launch",
             "mainClass": "track.Strings.pgm4",
