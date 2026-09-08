@@ -2,9 +2,10 @@
 public class A1 {
 
     public static void main(String[] args) {
-        int a[] = new int[5];
+        int a[];//declaration
+        a = new int[5];//creation
 
-        a[0] = 10;
+        a[0] = 10;//initialization
         a[1] = 20;
         a[2] = 30;
         a[3] = 40;

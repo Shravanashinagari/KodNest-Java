@@ -5,7 +5,112 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "jdk",
+            "type": "java",
+            "name": "pgm4",
+            "request": "launch",
+            "mainClass": "track.Strings.pgm4",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "pgm3",
+            "request": "launch",
+            "mainClass": "track.Strings.pgm3",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "pgm2",
+            "request": "launch",
+            "mainClass": "track.Strings.pgm2",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "pgm1",
+            "request": "launch",
+            "mainClass": "track.Strings.pgm1",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "SuffixSum",
+            "request": "launch",
+            "mainClass": "track.M02.PracticeQuestions.SuffixSum",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "PrefixSum",
+            "request": "launch",
+            "mainClass": "track.M02.PracticeQuestions.PrefixSum",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "track.M02.PracticeQuestions.EvenOdd",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "sample",
+            "request": "launch",
+            "mainClass": "track.M02.TwoPointers.sample",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "AntiClockWise",
+            "request": "launch",
+            "mainClass": "AntiClockWise",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "ClockWise",
+            "request": "launch",
+            "mainClass": "ClockWise",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "RemoveElement",
+            "request": "launch",
+            "mainClass": "RemoveElement",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "InsertElementAtIndex",
+            "request": "launch",
+            "mainClass": "InsertElementAtIndex",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "AddingAnElement",
+            "request": "launch",
+            "mainClass": "AddingAnElement",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "MinElement",
+            "request": "launch",
+            "mainClass": "MinElement",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "TwoDArray",
+            "request": "launch",
+            "mainClass": "TwoDArray",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
             "request": "launch",
             "name": "Launch Java App"
         }
