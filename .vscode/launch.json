@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringBuilder2",
+            "request": "launch",
+            "mainClass": "track.StringBuilder.StringBuilder2",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "pgm1",
+            "request": "launch",
+            "mainClass": "track.StringBuilder.pgm1",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "StringMethod3",
+            "request": "launch",
+            "mainClass": "track.Strings.StringMethod3",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "StringMethod2",
+            "request": "launch",
+            "mainClass": "track.Strings.StringMethod2",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
+            "name": "StringMethod1",
+            "request": "launch",
+            "mainClass": "track.Strings.StringMethod1",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
             "name": "Stringpgm2",
             "request": "launch",
             "mainClass": "track.Strings.Stringpgm2",
