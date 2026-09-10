@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringBuilder3",
+            "request": "launch",
+            "mainClass": "track.StringBuilder.StringBuilder3",
+            "projectName": "KodNest-Java_979c3e70"
+        },
+        {
+            "type": "java",
             "name": "StringBuilder2",
             "request": "launch",
             "mainClass": "track.StringBuilder.StringBuilder2",
