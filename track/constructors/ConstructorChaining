@@ -1,0 +1,23 @@
+class Parent{
+    Parent(){
+        System.out.println("inside 0 argument Parent constructor");
+    }
+    Parent(int a){
+        System.out.println("inside 1 argument Parent constructor");
+    }
+}
+class Child extends Parent{
+    Child(){
+        super();
+        System.out.println("inside 0 argument Child constructor");
+    }
+    Child(int a){
+        super();
+        System.out.println("inside 1 argument Child constructor");
+    }
+}
+public class ConstructorChaining {
+    public static void main(String[] args) {
+        Child c = new Child();
+    }
+}
